@@ -1,0 +1,20 @@
+
+
+/* Форма */
+.registBlock{background-color: #D9D9D9; width: 676px; height: 665px;
+    border-radius: 60px; display: flex; justify-content: center; margin: auto;}
+.registTitle{margin-top: 60px; 
+    font: bold normal 32px/150% Verdana, Geneva, Tahoma, sans-serif;}
+form{position: absolute; margin-top: 155px; font:  normal 24px/100% Verdana, Geneva, Tahoma, sans-serif;}
+
+#username, #password1, #password2{border-radius: 32px; width: 582px; height: 63px; border: none; padding: 0 30px; margin: 3px;}
+#btn-regist{background-color: #000; color: #D9D9D9; border-radius: 32px; width: 330px; height: 63px; border: none; margin: 20px 25%;}
+
+
+.enterHelp, .q{color: #606060; line-height: 200%; text-align: center;}
+.sign{color: inherit;}
+
+.logo2{margin-top: 50px; margin-bottom: 50px; margin-left: 45%;}
+
+.footer{margin-top: 2%; height: 206px; background-color: #D4AAAA; color: #fff; font: normal 20px/40% Verdana, Geneva, Tahoma, sans-serif; padding: 30px 80px ;}
+.freeSvg{margin-left: 47%;}

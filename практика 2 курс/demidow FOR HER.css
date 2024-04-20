@@ -1,0 +1,31 @@
+/* body{background-color: wheat} */
+.String{width: 75%;  height: 570px; margin: auto; display: flex; flex-direction: row;}
+.String2{width: 75%; height: 570px; margin: auto; display: flex; flex-direction: row;}
+.photobox {
+    width: 100%; height: auto;
+}
+.textBox{width: 100%; height: 30%; font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;     text-align: center;
+    color: black;}
+.vkorziny {
+    text-decoration: underline;
+}
+
+.ActionsUiHeartAlt { background-color: none;
+    margin-left: 80%; margin-top: -135%;
+}
+
+.Group1, .group2, .group3, .Group4, .Group5, .Group6{
+    width: 35%;
+}
+.cocomademoiselle, .number5, .GabrielleChanel, .coco, .n19, .Beige{
+    font-weight: bolder;
+}
+
+#myReadBtn{ border: 2px solid; margin-top: 4%; margin-bottom: 4%; margin-left: 46%; padding: 0.5% 2%; }
+#myReadBtn:hover{background-color: #D4AAAA;}
+.footer{ height: 206px; background-color: #D4AAAA; color: #fff; font: normal 20px/40% Verdana, Geneva, Tahoma, sans-serif; padding: 30px 80px; }
+.freeSvg{margin-left: 47%;}
+.aProductPage{text-decoration: none;}
+a{text-decoration: none; color: inherit;}
+a:hover{color: grey}
